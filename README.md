@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Yusfuldev/FEM-Easybank-Landing-page)
-- Live Site URL: [livesite](https://fem-easybank-landing-page-main.netlify.app/)
+
 
 ### Built with
 
